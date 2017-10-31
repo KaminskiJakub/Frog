@@ -1,3 +1,3 @@
 # Frog
-# Instructions for the topic are inside.
+Instructions for the topic are inside.
 
